@@ -1,0 +1,6 @@
+{
+  "name": "효도약통 - AI 약봉투 복약 & 3일전 재처방 알리미",
+  "description": "어르신을 위한 AI 약봉투 스캔 복약 관리 서비스. 고혈압 등 중요 약물이 떨어지기 3일 전 미리 병원 방문 및 재처방 알림을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
